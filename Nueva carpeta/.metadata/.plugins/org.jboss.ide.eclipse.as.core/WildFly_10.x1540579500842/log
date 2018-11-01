@@ -1,0 +1,112 @@
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2018-10-29 19:57:36.156
+!MESSAGE The server "WildFly 10.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_181 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2018-10-29 19:57:37.611
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2018-10-29 19:58:05.644
+!MESSAGE Module Taller1 on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2018-10-29 19:58:05.689
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2018-10-29 19:58:25.666
+!MESSAGE Module Taller1 on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2018-10-29 19:59:00.534
+!MESSAGE Module Taller1 on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2018-10-29 19:59:20.558
+!MESSAGE Module Taller1 on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2018-10-29 20:01:41.497
+!MESSAGE Module Taller1 on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2018-10-29 20:02:01.523
+!MESSAGE Module Taller1 on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2018-10-29 20:02:43.863
+!MESSAGE Module Taller1 on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2018-10-29 20:03:03.886
+!MESSAGE Module Taller1 on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2018-10-29 20:08:35.981
+!MESSAGE Module Taller1 on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2018-10-29 20:08:48.492
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2018-10-29 20:08:56.004
+!MESSAGE Module Taller1 on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2018-10-29 20:08:56.653
+!MESSAGE The server "WildFly 10.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_181 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2018-10-29 20:08:57.769
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2018-10-29 20:09:04.030
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2018-10-29 20:09:04.168
+!MESSAGE Module Taller1 on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2018-10-29 20:09:24.350
+!MESSAGE Module Taller1 on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2018-10-29 20:11:54.863
+!MESSAGE Module Taller1 on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2018-10-29 20:12:13.315
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2018-10-29 20:12:14.889
+!MESSAGE Module Taller1 on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2018-10-29 20:12:19.960
+!MESSAGE The server "WildFly 10.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_181 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2018-10-29 20:12:21.066
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2018-10-29 20:12:27.836
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2018-10-29 20:12:27.945
+!MESSAGE Module Taller1 on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2018-10-29 20:12:48.073
+!MESSAGE Module Taller1 on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2018-10-29 20:16:43.380
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2018-10-29 20:16:50.156
+!MESSAGE The server "WildFly 10.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_181 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2018-10-29 20:16:51.255
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2018-10-29 20:16:57.536
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2018-10-29 20:16:57.636
+!MESSAGE Module Taller1 on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2018-10-29 20:23:38.306
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2018-10-29 20:26:17.149
+!MESSAGE The server "WildFly 10.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_181 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2018-10-29 20:26:18.249
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2018-10-29 20:26:23.362
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2018-10-29 20:26:23.492
+!MESSAGE Module Taller1 on WildFly 10.x not yet fully deployed. Waiting...

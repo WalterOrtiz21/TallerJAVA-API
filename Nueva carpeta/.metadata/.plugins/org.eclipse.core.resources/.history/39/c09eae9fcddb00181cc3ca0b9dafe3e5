@@ -1,0 +1,13 @@
+package api;
+
+import javax.ws.rs.GET;
+import javax.ws.rs.*;
+
+@Path("/mensaje")
+public class Mensaje {
+@GET
+@Path("/{param}")
+public Response imprimir(@PathParam("param")String msj){
+	
+}
+}
